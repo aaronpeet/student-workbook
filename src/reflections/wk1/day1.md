@@ -1,5 +1,6 @@
 # Day 001
 
+
 ## In your own words, why do we use Git?
 
 git is used when multiple developers are coding on the same project. Git helps to organize, merge and later share the code from individual "local repositories" all in to a single "remote repository"

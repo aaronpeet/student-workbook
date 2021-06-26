@@ -1,5 +1,7 @@
 # Day 004
 
+https://github.com/amanda-rice/JohnDeereClone
+
 ## What is the purpose of wire-framing?
 
 the purpose is to have a rough outline of what you and the stakeholders want your website to look like before you wriet any code.
