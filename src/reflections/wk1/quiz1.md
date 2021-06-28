@@ -38,7 +38,7 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selcetor, property, value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -62,11 +62,11 @@ use a <b> tag
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+its used to expand or shrink content to fit in a space
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height and width
 ```
