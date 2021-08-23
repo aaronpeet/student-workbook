@@ -3,17 +3,17 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+its used to hold all of the functionality of your project. bootstrap, jquery those kinds of things
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
 ```
-
+it needs to be at the highest level, basically out on its own.
 ```
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
 ```
-
+not sure
 ```
 **4.** _______ are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
 <!-- enter you answer in the space below -->
@@ -23,7 +23,7 @@
 **5.** What are the two ways to view the logs from your Heroku app.
 <!-- enter you answer in the space below -->
 ```
-
+logger.log and console.log
 ```
 **6.** How do you update an app already deployed on Heroku?
 <!-- enter you answer in the space below -->
