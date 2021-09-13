@@ -16,3 +16,5 @@ p.*
 FROM patients p
 JOIN doctors d ON d.id = p.doctorId;
 "
+
+https://github.com/aaronpeet/Manager.git
